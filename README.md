@@ -23,7 +23,7 @@ It uses the camera preview as input and contains these API workflows: Object det
     * Show in-frame likelihood -- Displays InFrameLikelihood score for each landmark
     * Visualize z value -- Uses different colors to indicate z difference (red: smaller z, blue: larger z)
     * Rescale z value for visualization -- Maps the smallest z value to the most red and the largest z value to the most blue. This makes z difference more obvious
-    * Run classification -- Classify squat and pushup poses. Count reps in streaming mode.
+    * Run classification -- Classify toe-off and heel strike poses.
 
 ## Support
 
