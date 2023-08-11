@@ -10,6 +10,9 @@ Features that are included in this Quickstart app:
 
 
 ## How to use the app
+1) Download the android development tool kit (android studio)
+2) Download this entire repisotory
+3) Import this project into android studio and install onto your android phone
 
 This app supports these scenarios: Live Camera
 
